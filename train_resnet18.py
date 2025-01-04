@@ -73,8 +73,6 @@ model.fc = nn.Linear(model.fc.in_features, num_classes)
 # model = model.to(device)
 
 
-
-
 # 初始化模型
 
 # 定义损失函数和优化器
